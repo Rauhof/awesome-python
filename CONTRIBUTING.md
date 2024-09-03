@@ -4,7 +4,7 @@ Your contributions are always welcome!
 
 ## Guidelines
 
-##"Bitte sende eine Email an: leblings_kollege@firma.com"
+Bitte sende eine Email an: leblings_kollege@firma.com
 
 * Add one link per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
