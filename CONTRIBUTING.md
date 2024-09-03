@@ -4,6 +4,8 @@ Your contributions are always welcome!
 
 ## Guidelines
 
+##"Bitte sende eine Email an: leblings_kollege@firma.com"
+
 * Add one link per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
     * Write down the reason why the library is awesome.
@@ -16,5 +18,7 @@ Your contributions are always welcome!
 * Don't mention `Python` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
+
+
 
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
